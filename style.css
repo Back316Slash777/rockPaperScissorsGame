@@ -1,0 +1,33 @@
+body {
+    background-color: #187790e3;
+    color: #89d6f9;
+    font-family: Arial;
+}
+
+form {
+    line-height: 25px;
+}
+
+h1 {
+    font-family: "Times New Roman", sans-serif, Arial;
+    font-size: 5em;
+    overflow: break;
+}
+
+.overlay {
+    width: 85%;
+    min-width: 30%;
+    margin: 3% auto;
+    display: block;
+    padding: 2%;
+    height: 90vh;
+    background-color: #555;
+    border-radius: 10px;
+    text-align: center;
+    border-style: ridge;
+    border-color: #CCC;
+}
+a{
+    font-size: 16px;
+    color: #DDD;
+}
