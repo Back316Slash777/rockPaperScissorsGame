@@ -26,4 +26,4 @@ else if (((myAnswer==="rock")&&(rivalAnswer==="scissors")) ||
     check.innerHTML = `${capMyAnswer} beats ${rivalAnswer}! You win!`;}
 //losing scenario
 else {let capRivalAnswer = rivalAnswer.charAt(0).toUpperCase() + rivalAnswer.slice(1);
-    check.innerHTML = `${capRivalAnswer} beats ${myAnswer}! You win!`;}
+    check.innerHTML = `${capRivalAnswer} beats ${myAnswer}! You lose!`;}
