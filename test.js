@@ -8,7 +8,7 @@ let rivalAnswer = Math.random();
     if (rivalAnswer < 0.33) {
         rivalAnswer = "rock";
     }
-    else if (rivalAnswer > o.66) {
+    else if (rivalAnswer > 0.66) {
         rivalAnswer = "scissors";
     }
     else {
